@@ -6,3 +6,9 @@ utilize machine learning(YOLOv11)
 
 challenge!
 use javascript for UI (vite/react for frontend & node and express for backend)
+
+
+
+
+Frontend(React JS)
+Backend(python/nodejs)
